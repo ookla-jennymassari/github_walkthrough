@@ -184,9 +184,6 @@ Delete a branch (after merging): git branch -d <branch_name>
 
 Example: git branch -d feature/new-login
 
-This covers the most essential Git commands for a typical workflow. Practice these regularly, and you'll become comfortable with Git in no time!
-
-
 
 Starting a New Project (Initializing a Repository)
 
@@ -217,3 +214,13 @@ Make your initial commit:
 git commit -m "Initial project setup"
 
 This creates the very first snapshot of your project's history.
+
+Either specify the URL from the command-line or configure a remote repository using
+
+git remote add <name> <url>
+
+and then push using the remote name
+
+git push <name>
+
+This covers the most essential Git commands for a typical workflow. Practice these regularly, and you'll become comfortable with Git in no time!
