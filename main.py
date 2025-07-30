@@ -52,7 +52,8 @@ print ("helloss")
 
 
 ## Divide
-
+def divide(a, b):
+    return a / b if b != 0 else "Error: Division by zero"
 
 ## Modulus
 
