@@ -43,16 +43,19 @@ print ("helloss")
 
 
 ## Add
-
+def add(a, b):
+    return a + b
 
 ## Subtract
 
 
 ## Multiply
-
+def multiply(a, b):
+    return a * b
 
 ## Divide
-
+def divide(a, b):
+    return a / b if b != 0 else "Error: Division by zero"
 
 ## Modulus
 
