@@ -10,7 +10,7 @@
 
 
 ## Jenny
-
+print("Hello, this is Jenny's contribution to the GitHub walkthrough!")
 
 ## Lan
 
