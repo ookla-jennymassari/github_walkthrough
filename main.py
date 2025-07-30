@@ -43,7 +43,8 @@ print ("helloss")
 
 
 ## Add
-
+def add(a, b):
+    return a + b
 
 ## Subtract
 
