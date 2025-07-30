@@ -7,7 +7,7 @@
 
 
 ## Kalee
-
+print("Hello, this is Kalee.I'm excited to be here and learn. Thanks Jenny!!")
 
 ## Jenny
 print("Hello, this is Jenny's contribution to the GitHub walkthrough!")
