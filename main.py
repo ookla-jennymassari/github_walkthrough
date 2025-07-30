@@ -47,6 +47,8 @@ print ("helloss")
 
 ## Subtract
 
+def subtract(a, b):
+    return a - b
 
 ## Multiply
 
