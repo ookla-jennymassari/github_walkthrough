@@ -12,6 +12,12 @@
 ## Jenny
 
 
+## Lan
+
+
+## Neha
+
+
 ## Piyush
 
 
@@ -49,6 +55,12 @@
 
 
 ## Exponent
+
+
+## Floor Division
+
+
+## Absolute Difference
 
 
 
