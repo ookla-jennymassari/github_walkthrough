@@ -17,6 +17,7 @@ print("test")
 
 
 ## Neha
+print("Hello, Neha! Welcome to the GitHub walkthrough.")
 
 
 ## Piyush
