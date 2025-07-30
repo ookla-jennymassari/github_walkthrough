@@ -43,7 +43,8 @@ print("Beep Bop Boop!")
 
 
 ## Add
-
+def add(a, b):
+    return a + b
 
 ## Subtract
 
